@@ -1,0 +1,6 @@
+spaces:
+  cloud-platform:
+    id: "cloud-platform"
+    exists: false
+    parent_space_id: "root"
+    inherit_entities: true
